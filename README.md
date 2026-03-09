@@ -18,4 +18,5 @@ O site contém:
 - Rodapé
 
 ## Como visualizar
-Para ver o site, basta abrir o arquivo index.html em qualquer navegador.
+Para ver o site, basta abrir o arquivo index.html em qualquer navegador
+ou acessar pelo link público: https://guilherme123-hub.github.io/AVALICAO_DIAGNOSTICA/
